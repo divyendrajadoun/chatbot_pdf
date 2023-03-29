@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+openai
+numpy
+torch
+transformers
+pdfplumber
